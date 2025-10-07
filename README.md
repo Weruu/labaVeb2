@@ -28,7 +28,7 @@
 | :--- | :--- |
 | `index-flex-index.html` | `style-flex-index.css` |
 
-### Б) CSS Grid �
+### Б) CSS Grid 
 
 | Файл HTML | Файл CSS |
 | :--- | :--- |
